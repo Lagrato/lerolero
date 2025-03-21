@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# https://github.com/Lagrato/lerolero
 """Gerador de lero-lero 
 
 Gerar frases de efeito sem significado real."""
