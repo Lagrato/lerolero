@@ -11,13 +11,13 @@ parte1 = [
 	"O algoritmo foi otimizado e"
 ]
 parte2 = [
-	"possui excelente desmpenho",
-	"oferece garantias de precesão acima da média",
+	"possui excelente desempenho",
+	"oferece garantias de precisão acima da média",
 	"preenche uma lacuna significativa"]
 parte3 = [
 	"nas aplicações a que se destina",
 	"em relação às opções disponíveis no mercado"
-	"promovendo ampla vantagem competitiva a seus usuários"]
+	", provendo ampla vantagem competitiva a seus usuários"]
 
 lingua = int(input("Escolha a língua: 1 - português; 2 - inglês\n"))
 
